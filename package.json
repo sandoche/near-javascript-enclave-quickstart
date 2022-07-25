@@ -1,0 +1,16 @@
+{
+  "name": "javascript-enclave-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"build": "near-sdk build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sandoche Adittane",
+  "license": "ISC",
+  "dependencies": {
+    "near-sdk-js": "^0.3.0"
+  }
+}
