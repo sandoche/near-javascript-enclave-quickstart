@@ -1,6 +1,6 @@
 # NEAR Javascript Enclave
 
-- Playing with the NEAR JS SDK followin this tutoria: https://docs.near.org/develop/enclave
+- Playing with the NEAR JS SDK followin this tutorial: https://docs.near.org/develop/enclave
 
 ## Build and deploy
 
