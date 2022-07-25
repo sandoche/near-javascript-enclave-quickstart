@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"build": "near-sdk build",
+    "build": "near-sdk build",
+    "deploy": "near js dev-deploy --base64File build/contract.base64 --deposit 0.1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
